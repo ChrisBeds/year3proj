@@ -1,0 +1,6 @@
+C:\Users\Chris\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\form1.form1.resources
+C:\Users\Chris\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Chris\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\form1.csproj.GenerateResource.Cache
+C:\Users\Chris\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\form1.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Chris\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
